@@ -1,4 +1,4 @@
 
-apache_vhost_mode: "reverse"
-apache_reverse_proxy_port: "10000"
-apache_appname: "webmin"
+nginx_vhost_mode: "reverse"
+nginx_reverse_proxy_port: "10000"
+nginx_appname: "webmin"
