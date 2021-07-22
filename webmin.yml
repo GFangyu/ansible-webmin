@@ -14,7 +14,7 @@
     - {role: role_common, tags: "role_common"}  
     - {role: role_cloud, tags: "role_cloud"} 
     - {role: role_docker, tags: "role_docker"} 
-    - {role: role_apache, tags: "role_nginx"}  
+    - {role: role_apache, tags: "role_apache"}  
     - {role: webmin, tags: "webmin"}
     - {role: role_preend, tags: "preend"}
     - {role: role_end, tags: "role_end"}
